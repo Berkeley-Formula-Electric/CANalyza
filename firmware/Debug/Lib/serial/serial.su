@@ -1,0 +1,4 @@
+../Lib/serial/serial.c:16:6:Serial_Init	24	static
+../Lib/serial/serial.c:22:6:Serial_Start	8	static
+../Lib/serial/serial.c:26:9:Serial_IsValidPacket	16	static
+../Lib/serial/serial.c:30:6:Serial_RXInterruptHandler	16	static
